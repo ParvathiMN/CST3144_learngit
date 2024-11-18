@@ -1,0 +1,11 @@
+{
+    "name": "After school class",
+    "private": true,
+    "scripts": {
+        "start": "node server1.js"
+    },
+    "dependencies": {
+        "express": "^4.21.1",
+        "mongodb": "^3.6.3"
+    }
+}
