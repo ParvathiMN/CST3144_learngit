@@ -1,5 +1,5 @@
 {
-    "name": "class",
+    "name": "After school class",
     "private": true,
     "scripts": {
         "start": "node server1.js"
